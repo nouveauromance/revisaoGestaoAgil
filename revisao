@@ -1,0 +1,112 @@
+1. O que é metodologia ágil?
+
+É um conjunto de práticas para desenvolver projetos de forma rápida, flexível e com entregas contínuas. Ela valoriza 
+mais pessoas e interações do que processos em si, e responde bem às mudanças.
+
+2. O que é SCRUM e sua origem?
+
+SCRUM é um framework ágil para gerenciamento e desenvolvimento de projetos. Surgiu nos anos 90 com Ken Schwaber e 
+Jeff Sutherland. Ele foca em dividir o projeto em ciclos curtos (chamados sprints), com entregas constantes 
+e melhorias contínuas.
+
+3. O que é o KANBAN? Explique seu funcionamento.
+É um método visual para gerenciar tarefas com colunas como “A fazer”, “Fazendo” e “Feito”. Ele ajuda a visualizar o 
+fluxo de trabalho, limitar tarefas em andamento e melhorar a produtividade.
+
+4. Como o SCRUM e o KANBAN podem trabalhar juntos?
+
+Eles podem se complementar com o Kanban ajudando a visualizar o progresso das tarefas do Sprint do Scrum, 
+assim como usando o quadro Kanban para organizar tarefas da Sprint.
+
+5. Explique o que é a metodologia Lean e como o quadro do canva pode ajudar seu desenvolvimento?
+
+A metodologia Lean visa eliminar desperdícios e focar no que agrega valor. O quadro do 
+canva ajuda a planejar um modelo de negócio de forma rápida e simples, visualizando áreas como clientes, valores, 
+canais e etc.
+
+6. Quais são os princípios do SCRUM?
+
+Transparência, inspeção, adaptação, foco, coragem, respeito e comprometimento.
+
+7. O que Stories no SCRUM?
+
+São pequenas descrições de funcionalidades desejadas, escritas do ponto de vista do usuário.
+
+8. Cite duas ferramentas e-SCRUM utilizadas na web.
+
+Trello e Jira.
+
+9. O que é uma sprint e o que são backlogs?
+
+Sprint: ciclo de tempo onde a equipe trabalha para entregar partes do projeto.
+Backlog: lista priorizada de tarefas ou funcionalidades que devem ser feitas.
+
+10. Qual é o número máximo de membros da equipe SCRUM?
+
+De 3 a 9 membros no time de desenvolvimento, sem contar o Scrum Master e
+Product Owner.
+
+11. Qual é o papel do SCRUM MASTER?
+
+Ele facilita o processo Scrum, ajuda a equipe a entender e aplicar o framework, remove impedimentos e garante que tudo 
+esteja fluindo bem.
+
+12. Como é dividida a equipe de SCRUM?
+
+Product Owner (dono do produto), Scrum Master (facilitador) e equipe de desenvolvimento.
+
+13. Comparado a metodologias de desenvolvimento tradicionais, porque a metodologia ágil deve ter um período menos de 
+desenvolvimento, quais as possíveis causas?
+
+Porque ela foca em entregas rápidas e incrementais, com flexibilidade para mudanças, evita documentação excessiva e trabalha 
+com colaboração constante.
+
+14. Para uma equipe SCRUM desenvolver os projetos, quais seriam os principais requisitos e equilíbrio dos membros e conhecimento ideal?
+
+Diversidade de habilidades, comunicação eficiente, autonomia, foco em resultados e conhecimento técnico nas áreas necessárias do projeto.
+
+15. O que é o PMBOK? Explique sua utilidade.
+
+É um guia de boas práticas em gerenciamento de projetos. Ele organiza os processos, áreas de conhecimento e fornece base para certificações como PMP.
+
+16. Explique o que é o EAP, e dê um exemplo com 3 subníveis.
+
+EAP (Estrutura Analítica do Projeto) é uma divisão do projeto em partes menores para facilitar o controle.
+
+Exemplo: Construção de Site:
+Design
+1.1  Layout
+1.2  Cores
+1.3  Tipografia
+
+17. O que é BPMN, e porque ele é importante para o desenvolvimento de software?
+
+BPMN é uma notação gráfica para modelar processos de negócios. Ele ajuda a entender e melhorar o fluxo de 
+processos antes de automatizá-los no software.
+
+18. Monte um planejamento de otimização de sua rotina desde a hora que você sai para ir para faculdade até 
+o momento de sair e ir voltar ou ir para o trabalho. Faça em 3 sprints, coloque os backlogs: print 1: acordar, 
+se arrumar, café, condução etc; sprint 2: aulas, atividades etc; sprint 3: sair, percurso. (Pode ser bem 
+resumida, não precisa colocar detalhes como escovar os dentes etc, dá ênfase em alguma fase como preparar o café, 
+assistir a aula etc).
+
+Sprint 1 - Manhã até a chegada na faculdade
+ Backlog:
+  Acordar às 7h40
+  Preparar e tomar café 
+  Me arrumar
+  Sair de casa às 8h40
+
+Sprint 2 - Durante as aulas
+ Backlog:
+  Realizar anotações no Github
+  Assistir vídeos e ler documentos
+  Conversar com a equipe sobre o projeto
+  Realizar atividades propostas
+
+Sprint 3 - Saída da faculdade até casa
+ Backlog:
+  Voltar para casa às 13hrs
+  Almoçar e descansar um pouco
+  Ir para a academia
+  Estudar e revisar o conteúdo do dia ou trabalhar no projeto
